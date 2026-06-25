@@ -13,11 +13,16 @@ interface CareerFormProps {
     message: string;
     applyNow: string;
     applySuccess: string;
+    validation?: {
+      required: string;
+      invalidUrl: string;
+    };
   };
   common: {
     sending: string;
     errorMessage: string;
   };
+  locale?: string;
 }
 
 export default function CareerForm({ dict, common }: CareerFormProps) {
@@ -33,12 +38,13 @@ export default function CareerForm({ dict, common }: CareerFormProps) {
 
   const validate = () => {
     const newErrors: Record<string, string> = {};
-    if (!formData.name.trim()) newErrors.name = "Required";
-    if (!formData.position.trim()) newErrors.position = "Required";
+    const reqMessage = dict.validation?.required || "Required";
+    if (!formData.name.trim()) newErrors.name = reqMessage;
+    if (!formData.position.trim()) newErrors.position = reqMessage;
     if (!formData.resume.trim()) {
-      newErrors.resume = "Required";
+      newErrors.resume = reqMessage;
     } else if (!/^https?:\/\/[^\s$.?#].[^\s]*$/i.test(formData.resume)) {
-      newErrors.resume = "Invalid URL (e.g. Google Drive/Dropbox share link)";
+      newErrors.resume = dict.validation?.invalidUrl || "Invalid URL";
     }
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;

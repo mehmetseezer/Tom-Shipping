@@ -10,6 +10,10 @@ interface ContactFormProps {
     subject: string;
     message: string;
     send: string;
+    validation?: {
+      required: string;
+      invalidEmail: string;
+    };
   };
   common: {
     sending: string;
@@ -31,14 +35,15 @@ export default function ContactForm({ dict, common }: ContactFormProps) {
 
   const validate = () => {
     const newErrors: Record<string, string> = {};
-    if (!formData.name.trim()) newErrors.name = "Required";
+    const reqMessage = dict.validation?.required || "Required";
+    if (!formData.name.trim()) newErrors.name = reqMessage;
     if (!formData.email.trim()) {
-      newErrors.email = "Required";
+      newErrors.email = reqMessage;
     } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(formData.email)) {
-      newErrors.email = "Invalid email";
+      newErrors.email = dict.validation?.invalidEmail || "Invalid email";
     }
-    if (!formData.subject.trim()) newErrors.subject = "Required";
-    if (!formData.message.trim()) newErrors.message = "Required";
+    if (!formData.subject.trim()) newErrors.subject = reqMessage;
+    if (!formData.message.trim()) newErrors.message = reqMessage;
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
   };

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -9,8 +10,8 @@
   --color-pearl: #f9fafb;
   --color-navy-dark: #0f172a;
   
-  --font-display: var(--font-display), sans-serif;
-  --font-body: var(--font-body), sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --font-body: "Plus Jakarta Sans", sans-serif;
 }
 
 :root {
@@ -61,3 +62,78 @@ body {
 .animate-fade-in {
   animation: fadeIn 0.6s ease-out forwards;
 }
+
+/* Custom Corporate SVG Keyframe Animations */
+@keyframes spin-clockwise {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes spin-counter-clockwise {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+
+@keyframes anchor-sway {
+  0% { transform: rotate(-8deg); }
+  50% { transform: rotate(8deg); }
+  100% { transform: rotate(-8deg); }
+}
+
+@keyframes pulse-slow {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.45; transform: scale(0.92); }
+}
+
+@keyframes radar-sweep {
+  0% { transform: rotate(0deg); opacity: 0.8; }
+  50% { opacity: 0.3; }
+  100% { transform: rotate(360deg); opacity: 0.8; }
+}
+
+@keyframes crane-cable-lift {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-15px); }
+}
+
+@keyframes crane-grab-sway {
+  0%, 100% { transform: rotate(-3deg) translateY(0); }
+  50% { transform: rotate(3deg) translateY(-15px); }
+}
+
+.animate-spin-slow {
+  animation: spin-clockwise 20s linear infinite;
+}
+
+.animate-spin-reverse-slow {
+  animation: spin-counter-clockwise 25s linear infinite;
+}
+
+.animate-anchor-sway {
+  animation: anchor-sway 4.5s ease-in-out infinite;
+  transform-origin: 50% 10%;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 3s ease-in-out infinite;
+}
+
+.animate-radar {
+  animation: radar-sweep 5s linear infinite;
+  transform-origin: 200px 110px; /* Maps to 約 About blueprint sonar center */
+}
+
+.animate-radar-port {
+  animation: radar-sweep 6s linear infinite;
+  transform-origin: 380px 110px; /* Maps to Services cargo sweep center */
+}
+
+.animate-crane-lift {
+  animation: crane-cable-lift 7s ease-in-out infinite;
+}
+
+.animate-crane-grab {
+  animation: crane-grab-sway 7s ease-in-out infinite;
+  transform-origin: 210px 100px;
+}
+
