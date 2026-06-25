@@ -1,0 +1,254 @@
+{
+  "common": {
+    "brand": "TOM SHIPPING",
+    "tagline": "Uluslararası Kuru Yük Sektöründe Lider Denizcilik Hizmetleri",
+    "phone": "+90 533 246 20 53",
+    "email": "teknik@tomshipping.com.tr",
+    "address": "Üsküdar / İstanbul",
+    "hours": "7 Gün / 24 Saat Kesintisiz Hizmet",
+    "learnMore": "Daha Fazlasını Keşfet",
+    "contactUs": "İletişime Geçin",
+    "getInTouch": "Bizimle İletişime Geçin",
+    "submit": "Gönder",
+    "sending": "Gönderiliyor...",
+    "successMessage": "Mesajınız başarıyla iletildi. En kısa sürede dönüş yapacağız.",
+    "errorMessage": "Mesaj gönderilirken hata oluştu. Lütfen tekrar deneyin.",
+    "readMore": "Devamı",
+    "back": "Geri",
+    "allRightsReserved": "Tüm Hakları Saklıdır.",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfUse": "Kullanım Şartları"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "corporate": "Kurumsal",
+    "about": "Hakkımızda",
+    "services": "Hizmetlerimiz",
+    "fleet": "Filomuz",
+    "sustainability": "Sürdürülebilirlik & Emniyet",
+    "careers": "Kariyer",
+    "news": "Haberler",
+    "contact": "İletişim"
+  },
+  "home": {
+    "hero": {
+      "slide1": {
+        "title": "Üst Düzey Gemi Yönetimi",
+        "description": "Uluslararası kuru yük sektöründe modern filo operasyonları, planlı bakım ve yüksek verimli yönetim standartları sunuyoruz."
+      },
+      "slide2": {
+        "title": "Kusursuz Emniyet & Uyumluluk",
+        "description": "Küresel denizcilik düzenlemelerine ve uluslararası standartlara tavizsiz uyum sağlayarak emniyeti en üst düzeyde tutuyoruz."
+      },
+      "slide3": {
+        "title": "Operasyonel Mükemmellik",
+        "description": "Deneyimli kadromuzla tedarik zinciri lojistiği, mürettebat koordinasyonu ve stratejik kiralama çözümleri sunuyoruz."
+      }
+    },
+    "intro": {
+      "badge": "Biz Kimiz?",
+      "title": "Uluslararası Denizcilikte Güvenilir Ortağınız",
+      "p1": "Tom Shipping, uluslararası kuru yük sektörü için özel olarak tasarlanmış birinci sınıf gemi yönetimi ve denizcilik operasyonel hizmetleri sunmaktadır. Kapsamlı hizmet yelpazemiz; uçtan uca gemi yönetimi, deniz operasyonları, planlı bakım, stratejik tedarik zinciri lojistiği, mürettebat koordinasyonu, kiralama ve titiz filo gözetimini içermektedir.",
+      "p2": "Son derece deneyimli liderlik ekibimiz yönetiminde, küresel deniz ticaretinde en yüksek hizmet standartlarını ve kesintisiz operasyonel verimliliği sunmaya kararlıyız."
+    },
+    "pillars": {
+      "title": "Temel Değerlerimiz & Taahhütlerimiz",
+      "subtitle": "Operasyonlarımızın her aşamasında ödün vermediğimiz ve bizi sektörde öne çıkaran dört ana sütunumuz.",
+      "safety": {
+        "title": "Kusursuz Emniyet & Uyumluluk",
+        "desc": "Küresel denizcilik düzenlemelerine tavizsiz uyum ve sıfır kaza hedefiyle operasyonel riskleri minimuma indiriyoruz."
+      },
+      "commercial": {
+        "title": "Optimize Ticari Performans",
+        "desc": "Stratejik maliyet yönetimi ve sıkı gemi verimlilik kontrolleriyle müşterilerimizin ticari çıkarlarını en üst duyeye çıkarıyoruz."
+      },
+      "excellence": {
+        "title": "Operasyonel Mükemmellik",
+        "desc": "Uluslararası en iyi uygulamalarla uyumlu, yüksek standartlarda denizcilik ve filo destek hizmetleri sunuyoruz."
+      },
+      "governance": {
+        "title": "Şeffaf Yönetişim",
+        "desc": "Eksiksiz raporlama, tam şeffaflık ve proaktif risk yönetimiyle paydaşlarımıza tam güven sağlıyoruz."
+      }
+    },
+    "stats": {
+      "vessels": "Yönetilen Gemi",
+      "crew": "Aktif Personel",
+      "experience": "Yıllık Deneyim",
+      "satisfaction": "Müşteri Memnuniyeti"
+    },
+    "cta": {
+      "title": "Filo Yönetiminde Yeni Bir Standart Keşfedin",
+      "subtitle": "Tom Shipping'in kapsamlı yönetişim ve operasyonel çözümleriyle filonuz güvende, verimli ve karlı kalsın.",
+      "button": "Bizimle Görüşün"
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Denizcilikte Köklü Deneyim ve Geleceğe Yön Veren Yönetim Anlayışı",
+    "mission": {
+      "title": "Misyonumuz",
+      "desc": "Uluslararası kuru yük taşımacılığında emniyet, şeffaflık ve verimliliği merkeze alarak, küresel standartlarda gemi yönetimi hizmetleri sunmak ve müşterilerimizin ticari değerini artırmaktır."
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "desc": "Teknoloji, sürdürülebilirlik ve operasyonel mükemmellikle donatılmış, küresel ölçekte en çok tercih edilen ve güvenilen denizcilik yönetimi şirketlerinden biri olmak."
+    },
+    "content": {
+      "title": "Tom Shipping'in Kuruluş Felsefesi",
+      "p1": "Tom Shipping, kuru yük gemi işletmeciliği sektöründe eksikliği duyulan şeffaflık, kusursuz emniyet ve operasyonel disiplin ihtiyaçlarını karşılamak üzere kurulmuştur. Kurucularımız ve yönetim kadromuz, onlarca yıllık saha deneyimi ile denizcilik sektörünün dinamiklerine derinlemesine hakim profesyonellerden oluşmaktadır.",
+      "p2": "Filomuzda yer alan her bir gemiyi kendi varlığımız gibi koruyor, planlı bakım sistemleri ve gelişmiş izleme mekanizmalarıyla operasyonel ömürlerini ve performanslarını koruyoruz.",
+      "p3": "Sürdürülebilirlik ve çevre bilinciyle hareket ederken, mürettebat refahına ve eğitimine öncelik veriyor, böylece deniz operasyonlarında sürdürülebilir başarıyı garantiliyoruz."
+    },
+    "values": {
+      "title": "Kurumsal İlkelerimiz",
+      "item1": {
+        "title": "Dürüstlük ve Güven",
+        "desc": "Tüm ortaklarımız ve müşterilerimizle açık, dürüst ve şeffaf ilişkiler kurarız."
+      },
+      "item2": {
+        "title": "Deniz ve İnsan Emniyeti",
+        "desc": "Gemilerimizin ve üzerindeki personelin güvenliği bizim için en kutsal değerdir."
+      },
+      "item3": {
+        "title": "Çevreye Saygı",
+        "desc": "Mavi vatanı korumak adına tüm faaliyetlerimizde çevre kirliliğini önleyici ve karbon ayak izini azaltıcı adımlar atarız."
+      }
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Uçtan Uca Denizcilik Operasyonları ve Gemi Yönetimi Çözümleri",
+    "intro": "Tom Shipping olarak, uluslararası kuru yük sektörünün karmaşık gereksinimlerini karşılamak amacıyla özel olarak tasarlanmış, entegre ve profesyonel hizmetler sunmaktayız.",
+    "items": {
+      "shipManagement": {
+        "title": "Teknik Gemi Yönetimi",
+        "desc": "Gemilerimizin teknik kondisyonunu en üst düzeyde tutmak amacıyla denetimler, planlı bakım sistemleri (PMS), havuzlama (dry-dock) yönetimi ve teknik arıza destekleri sağlıyoruz."
+      },
+      "marineOperations": {
+        "title": "Deniz Operasyonları",
+        "desc": "Vessel performans kontrolleri, yakıt optimizasyonları ve rota analizleri ile gemilerin emniyetli ve en ekonomik şekilde seyretmesini sağlıyoruz."
+      },
+      "maintenance": {
+        "title": "Planlı Bakım ve Entegrasyon",
+        "desc": "Uluslararası standartlar (class) gereği yapılması gereken periyodik testler, makine bakımları ve yapısal gözetimlerin zamanında ve eksiksiz yapılmasını sağlıyoruz."
+      },
+      "logistics": {
+        "title": "Tedarik Zinciri ve Lojistik",
+        "desc": "Gemiler için gerekli olan yedek parça, kumanya, yağ ve teknik malzemelerin en hızlı ve en ekonomik şekilde dünyanın her yerindeki limanlara ulaştırılmasını yönetiyoruz."
+      },
+      "crew": {
+        "title": "Mürettebat Koordinasyonu",
+        "desc": "Denizcilik kurallarına uygun, sertifikalı, deneyimli ve düzenli olarak eğitilen zabitan ve tayfa kadrolarının seçimini, rotasyonunu ve özlük haklarını yönetiyoruz."
+      },
+      "chartering": {
+        "title": "Kiralama & Filo Gözetimi",
+        "desc": "Kuru yük pazarındaki geniş ağımız sayesinde gemiler için en karlı sefer kiralama (voyage charter) ve zaman kiralama (time charter) bağlantılarını kuruyor ve ticari operasyonları izliyoruz."
+      }
+    }
+  },
+  "fleet": {
+    "title": "Filomuz & Yönetim",
+    "subtitle": "Modern ve Bakımlı Filo ile Kesintisiz Küresel Taşımacılık",
+    "intro": "Yönetimimiz altındaki filo, uluslararası kuru yük taşımacılığında güvenilirliği ve yüksek operasyonel verimliliği garanti edecek şekilde planlı bakım programlarıyla sürekli denetlenmektedir. Gemilerimiz en son IMO, MARPOL ve SOLAS düzenlemeleriyle tam uyumlu çalışmaktadır.",
+    "fleetStatus": "Filo Durum Özeti",
+    "techDetails": "Teknik Standartlar",
+    "standards": {
+      "p1": "Gemilerimizin teknik gözetimini, 24 saat kesintisiz veri akışı sağlayan gelişmiş filo takip yazılımlarımızla gerçekleştiriyoruz.",
+      "p2": "Dünyanın önde gelen klas kuruluşları (IACS üyeleri) ile çalışarak gemilerimizin sertifikasyon süreçlerini eksiksiz yürütüyor ve liman devleti denetimlerinden (PSC) başarıyla geçmelerini sağlıyoruz."
+    },
+    "vessels": {
+      "v1": {
+        "name": "Tom Horizon",
+        "type": "Handysize Kuru Yük",
+        "dwt": "32,500 DWT",
+        "built": "2018",
+        "flag": "Panama"
+      },
+      "v2": {
+        "name": "Tom Voyager",
+        "type": "Supramax Kuru Yük",
+        "dwt": "56,800 DWT",
+        "built": "2015",
+        "flag": "Marshall Islands"
+      },
+      "v3": {
+        "name": "Tom Explorer",
+        "type": "Ultramax Kuru Yük",
+        "dwt": "63,200 DWT",
+        "built": "2020",
+        "flag": "Singapore"
+      },
+      "v4": {
+        "name": "Tom Ocean",
+        "type": "Handysize Kuru Yük",
+        "dwt": "37,000 DWT",
+        "built": "2017",
+        "flag": "Panama"
+      }
+    }
+  },
+  "sustainability": {
+    "title": "Sürdürülebilirlik & Emniyet",
+    "subtitle": "Gelecek Nesillere Temiz Denizler ve Güvenli Çalışma Alanları Bırakıyoruz",
+    "hseq": "Sağlık, Emniyet, Çevre ve Kalite (HSEQ) Politikamız",
+    "safetyFirst": "Emniyet Her Zaman Önceliktir",
+    "safetyFirstDesc": "Karada ve denizde sıfır kaza politikasını benimsiyoruz. Personelimizin sürekli eğitimi ve emniyet tatbikatlarıyla güvenli bir çalışma ortamı sunuyoruz.",
+    "ecoTitle": "Çevre Koruma ve Karbonsuzlaştırma",
+    "ecoDesc": "Deniz ekosistemini korumak ve karbon emisyonlarını azaltmak için yakıt verimliliğini artıran yeni teknolojileri gemilerimize entegre ediyoruz. IMO 2030 ve 2050 sera gazı azaltım hedefleri doğrultusunda proaktif adımlar atıyoruz.",
+    "complianceTitle": "Uluslararası Uyumluluk",
+    "complianceDesc": "SOLAS, MARPOL, MLC ve ISM kodları başta olmak üzere tüm uluslararası denizcilik mevzuatlarına ve kurallarına tam uyumu garanti ediyoruz."
+  },
+  "careers": {
+    "title": "Kariyer",
+    "subtitle": "Tom Shipping Ailesine Katılın, Rotanızı Geleceğe Çevirin",
+    "seaTitle": "Deniz Personeli Başvuruları",
+    "seaDesc": "Filomuzda görev alacak, alanında uzman, disiplinli, emniyet kültürünü benimsemiş ve uluslararası deneyim kazanmak isteyen zabitan ve güverte/makine personeli arayışımız her zaman devam etmektedir.",
+    "shoreTitle": "Ofis Kariyer Fırsatları",
+    "shoreDesc": "İstanbul Üsküdar'da bulunan merkez ofisimizde operasyon, teknik, mürettebat yönetimi, kiralama ve satın alma birimlerimizde kariyerinizi geliştirebilirsiniz.",
+    "applyNow": "Şimdi Başvur",
+    "formTitle": "İş Başvuru Formu",
+    "name": "Ad Soyad",
+    "position": "Başvurulan Pozisyon",
+    "positionPlaceholder": "Örn. Uzakyol Kaptanı, Teknik Enspektör",
+    "resume": "Özgeçmiş (CV) Linki",
+    "message": "Kendinizi Tanıtın / Ön Yazı",
+    "applySuccess": "Başvurunuz başarıyla alınmıştır. İlgili birimimiz inceledikten sonra sizinle iletişime geçecektir."
+  },
+  "news": {
+    "title": "Haberler & Duyurular",
+    "subtitle": "Tom Shipping ve Denizcilik Dünyasından En Son Gelişmeler",
+    "items": {
+      "n1": {
+        "title": "Tom Explorer Filomuza Katıldı",
+        "date": "15 Haziran 2026",
+        "summary": "Yeni inşa edilen 63,200 DWT kapasiteli Ultramax kuru yük gemimiz Tom Explorer, teknik yönetimimiz altında başarıyla teslim alınarak ilk seferine çıkmıştır."
+      },
+      "n2": {
+        "title": "Yeni Karbon Emisyonu Regülasyonları Eğitimi",
+        "date": "28 Mayıs 2026",
+        "summary": "Tüm teknik enspektörlerimiz ve gemi zabitanlarımız için IMO'nun güncel CII ve EEXI derecelendirme standartlarına uyum konulu online bir eğitim düzenlenmiştir."
+      },
+      "n3": {
+        "title": "Üsküdar Ofisimizde Genişleme",
+        "date": "10 Nisan 2026",
+        "summary": "Büyüyen gemi filomuzla birlikte operasyonel süreçleri daha verimli yönetmek adına merkez ofisimizi genişleterek ekibimizi yeni profesyonellerle güçlendirdik."
+      }
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "7/24 Kesintisiz İletişim ve Operasyonel Destek",
+    "infoTitle": "İletişim Bilgilerimiz",
+    "addressTitle": "Ofis Adresi",
+    "phoneTitle": "Telefon ve WhatsApp",
+    "emailTitle": "E-Posta Adresi",
+    "hoursTitle": "Çalışma Saatleri",
+    "formTitle": "Bize Mesaj Gönderin",
+    "name": "Adınız Soyadınız",
+    "email": "E-Posta Adresiniz",
+    "subject": "Konu",
+    "message": "Mesajınız",
+    "send": "Gönder"
+  }
+}

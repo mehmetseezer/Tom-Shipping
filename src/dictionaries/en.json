@@ -1,0 +1,254 @@
+{
+  "common": {
+    "brand": "TOM SHIPPING",
+    "tagline": "Premier Ship Management and Maritime Services in the Dry Cargo Sector",
+    "phone": "+90 533 246 20 53",
+    "email": "teknik@tomshipping.com.tr",
+    "address": "Üsküdar / İstanbul",
+    "hours": "24 Hours / 7 Days Continuous Service",
+    "learnMore": "Discover More",
+    "contactUs": "Contact Us",
+    "getInTouch": "Get In Touch With Us",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully. We will get back to you shortly.",
+    "errorMessage": "An error occurred while sending the message. Please try again.",
+    "readMore": "Read More",
+    "back": "Back",
+    "allRightsReserved": "All Rights Reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use"
+  },
+  "nav": {
+    "home": "Home",
+    "corporate": "Corporate",
+    "about": "About Us",
+    "services": "Services",
+    "fleet": "Fleet",
+    "sustainability": "Sustainability & Safety",
+    "careers": "Careers",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "slide1": {
+        "title": "Elite Ship Management",
+        "description": "Offering modern fleet operations, planned maintenance, and highly efficient management standards for the international dry cargo sector."
+      },
+      "slide2": {
+        "title": "Flawless Safety & Compliance",
+        "description": "Ensuring strict safety and uncompromising adherence to global maritime regulations and international standards."
+      },
+      "slide3": {
+        "title": "Operational Excellence",
+        "description": "Providing strategic supply chain logistics, crew coordination, and premium chartering solutions with an experienced team."
+      }
+    },
+    "intro": {
+      "badge": "Who We Are",
+      "title": "Your Trusted Partner in Global Shipping",
+      "p1": "Tom Shipping delivers premier ship management and maritime operational services tailored for the international dry cargo sector. Our comprehensive suite of services spans end-to-end ship management, marine operations, planned maintenance, strategic supply chain logistics, crew coordination, chartering, and rigorous fleet oversight.",
+      "p2": "Driven by a highly experienced leadership team, we are dedicated to delivering top-tier service standards aligned with international best practices and seamless operational efficiency."
+    },
+    "pillars": {
+      "title": "Our Core Pillars & Commitments",
+      "subtitle": "Four core values that guide our operations at every level and set us apart in the maritime industry.",
+      "safety": {
+        "title": "Flawless Safety & Compliance",
+        "desc": "Uncompromising adherence to global maritime regulations and zero-accident target to minimize operational risks."
+      },
+      "commercial": {
+        "title": "Optimized Commercial Performance",
+        "desc": "Strategic cost management and strict vessel efficiency controls to maximize our clients' commercial returns."
+      },
+      "excellence": {
+        "title": "Operational Excellence",
+        "desc": "High-tier service standards aligned with international best practices and top-level fleet support."
+      },
+      "governance": {
+        "title": "Transparent Governance",
+        "desc": "Bulletproof documentation, total transparency, and proactive risk management for absolute stakeholder confidence."
+      }
+    },
+    "stats": {
+      "vessels": "Managed Vessels",
+      "crew": "Active Crew Members",
+      "experience": "Years of Experience",
+      "satisfaction": "Client Satisfaction"
+    },
+    "cta": {
+      "title": "Discover a New Standard in Fleet Management",
+      "subtitle": "Ensure your fleet remains safe, efficient, and profitable with Tom Shipping's comprehensive governance and operational solutions.",
+      "button": "Speak with Our Team"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Decades of Maritime Experience and Forward-Looking Fleet Management",
+    "mission": {
+      "title": "Our Mission",
+      "desc": "To provide world-class ship management services centered on safety, transparency, and efficiency in the dry cargo sector, enhancing the commercial value of our clients' assets."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "desc": "To be one of the most preferred and trusted ship management companies globally, powered by technology, sustainability, and operational excellence."
+    },
+    "content": {
+      "title": "The Founding Philosophy of Tom Shipping",
+      "p1": "Tom Shipping was founded to address the critical industry need for total transparency, flawless safety, and operational discipline in dry cargo ship management. Our founders and executives are maritime professionals with decades of field-proven leadership and deep knowledge of global shipping dynamics.",
+      "p2": "We treat every vessel under our management as if it were our own. Through rigorous planned maintenance systems (PMS) and modern vessel monitoring, we preserve their lifecycle and ensure peak performance.",
+      "p3": "Operating with strict environmental stewardship and carbon-neutral targets, we prioritize crew welfare and training, securing sustainable success in all marine operations."
+    },
+    "values": {
+      "title": "Corporate Values",
+      "item1": {
+        "title": "Integrity & Trust",
+        "desc": "Building open, honest, and completely transparent partnerships with all clients and stakeholders."
+      },
+      "item2": {
+        "title": "Crew & Vessel Safety",
+        "desc": "The safety of our crews and vessels is our absolute, non-negotiable priority."
+      },
+      "item3": {
+        "title": "Environmental Respect",
+        "desc": "Implementing active anti-pollution measures and carbon reduction strategies to safeguard the oceans."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "End-to-End Maritime Operations and Ship Management Solutions",
+    "intro": "At Tom Shipping, we provide integrated and professional services tailored to meet the complex and dynamic requirements of the international dry cargo sector.",
+    "items": {
+      "shipManagement": {
+        "title": "Technical Ship Management",
+        "desc": "Maintaining peak technical condition through structural inspections, Planned Maintenance Systems (PMS), dry-dock supervision, and responsive technical troubleshooting."
+      },
+      "marineOperations": {
+        "title": "Marine Operations",
+        "desc": "Continuous vessel performance controls, fuel efficiency monitoring, and passage planning for safe and cost-effective voyages."
+      },
+      "maintenance": {
+        "title": "Planned Maintenance & Class Integration",
+        "desc": "Executing scheduled machinery checks, structural monitoring, and certification compliance in line with class requirements."
+      },
+      "logistics": {
+        "title": "Supply Chain & Logistics",
+        "desc": "Managing prompt, cost-efficient procurement and delivery of vessel spares, provisions, lubricants, and technical stores to global ports."
+      },
+      "crew": {
+        "title": "Crew Coordination",
+        "desc": "Selecting, recruiting, rotating, and managing certified, highly-trained, and experienced officers and ratings in full compliance with MLC."
+      },
+      "chartering": {
+        "title": "Chartering & Fleet Oversight",
+        "desc": "Leveraging a broad network in the dry cargo market to secure profitable voyage and time charter arrangements while monitoring all commercial operations."
+      }
+    }
+  },
+  "fleet": {
+    "title": "Our Fleet",
+    "subtitle": "Ensuring Global Maritime Logistics with Modern and Maintained Vessels",
+    "intro": "The vessels under our management are maintained to the highest standards, ensuring top-tier operational reliability and safety in international trade. Our fleet complies fully with the latest IMO, MARPOL, and SOLAS requirements.",
+    "fleetStatus": "Fleet Status Overview",
+    "techDetails": "Technical Standards",
+    "standards": {
+      "p1": "We oversee our vessels' technical performance using advanced fleet tracking and data-monitoring tools that deliver real-time metrics.",
+      "p2": "By collaborating with top-tier classification societies (IACS members), we guarantee proper vessel certification and consistently high performance during Port State Control (PSC) inspections."
+    },
+    "vessels": {
+      "v1": {
+        "name": "Tom Horizon",
+        "type": "Handysize Dry Bulk",
+        "dwt": "32,500 DWT",
+        "built": "2018",
+        "flag": "Panama"
+      },
+      "v2": {
+        "name": "Tom Voyager",
+        "type": "Supramax Dry Bulk",
+        "dwt": "56,800 DWT",
+        "built": "2015",
+        "flag": "Marshall Islands"
+      },
+      "v3": {
+        "name": "Tom Explorer",
+        "type": "Ultramax Dry Bulk",
+        "dwt": "63,200 DWT",
+        "built": "2020",
+        "flag": "Singapore"
+      },
+      "v4": {
+        "name": "Tom Ocean",
+        "type": "Handysize Dry Bulk",
+        "dwt": "37,000 DWT",
+        "built": "2017",
+        "flag": "Panama"
+      }
+    }
+  },
+  "sustainability": {
+    "title": "Sustainability & Safety",
+    "subtitle": "Safeguarding the Oceans and Providing Secure Work Environments for the Future",
+    "hseq": "Health, Safety, Environment, and Quality (HSEQ) Policy",
+    "safetyFirst": "Safety Always Comes First",
+    "safetyFirstDesc": "Adopting a strict zero-accident policy at sea and ashore. We provide secure work environments through regular crew training, updates, and emergency drills.",
+    "ecoTitle": "Environmental Protection & Decarbonization",
+    "ecoDesc": "Integrating modern, fuel-efficient technologies on our vessels to protect marine life and reduce carbon footprint. We take proactive steps in line with IMO 2030 and 2050 greenhouse gas reduction goals.",
+    "complianceTitle": "Global Compliance",
+    "complianceDesc": "Guaranteeing full adherence to international maritime codes, conventions, and regulations, including SOLAS, MARPOL, MLC, and the ISM Code."
+  },
+  "careers": {
+    "title": "Careers",
+    "subtitle": "Join the Tom Shipping Family and Chart Your Course to the Future",
+    "seaTitle": "Seagoing Personnel Recruitment",
+    "seaDesc": "We are constantly seeking highly-skilled, disciplined, safety-oriented officers and ratings to join our fleet and develop their careers in international maritime operations.",
+    "shoreTitle": "Shore-based Career Opportunities",
+    "shoreDesc": "Join our headquarters in Üsküdar, İstanbul, to advance your career in vessel operations, technical management, crewing, chartering, or procurement.",
+    "applyNow": "Apply Now",
+    "formTitle": "Application Form",
+    "name": "Full Name",
+    "position": "Target Position",
+    "positionPlaceholder": "e.g., Master Mariner, Technical Superintendent",
+    "resume": "Resume (CV) Link",
+    "message": "Cover Letter / Introduce Yourself",
+    "applySuccess": "Your application has been received successfully. Our human resources department will contact you after review."
+  },
+  "news": {
+    "title": "News & Announcements",
+    "subtitle": "The Latest Updates from Tom Shipping and the Maritime Industry",
+    "items": {
+      "n1": {
+        "title": "Tom Explorer Joins the Fleet",
+        "date": "June 15, 2026",
+        "summary": "Our newly built 63,200 DWT Ultramax bulk carrier, Tom Explorer, has been successfully taken under technical management and has commenced her maiden voyage."
+      },
+      "n2": {
+        "title": "Carbon Intensity Indicator (CII) Training",
+        "date": "May 28, 2026",
+        "summary": "We conducted a virtual workshop for all technical superintendents and seagoing officers to ensure complete alignment with IMO's new CII and EEXI rating schemes."
+      },
+      "n3": {
+        "title": "Expanding Our Head Office in Üsküdar",
+        "date": "April 10, 2026",
+        "summary": "To support our growing fleet and operations, we have expanded our main office space and welcomed new industry experts to our commercial and technical departments."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "24/7 Operations & Commercial Support",
+    "infoTitle": "Contact Coordinates",
+    "addressTitle": "Head Office Address",
+    "phoneTitle": "Phone & WhatsApp",
+    "emailTitle": "E-Mail Address",
+    "hoursTitle": "Business Hours",
+    "formTitle": "Send Us a Message",
+    "name": "Your Name",
+    "email": "Your E-Mail",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message"
+  }
+}
